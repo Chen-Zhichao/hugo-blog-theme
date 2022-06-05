@@ -10,7 +10,7 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/chichiu_chan
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
