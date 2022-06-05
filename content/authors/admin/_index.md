@@ -17,6 +17,9 @@ social:
 organizations:
   - name: School of Electronic Science and Engineering, Nanjing University
     url: ""
+education:
+  courses: []
+email: zhichaoc86@gmail.com
 superuser: true
 status:
   icon: ☕️
