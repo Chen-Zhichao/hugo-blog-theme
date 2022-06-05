@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
-    url: ""
+  - name: Nanjing University
+    url: https://www.nju.edu.cn
 superuser: true
 status:
   icon: ☕️
