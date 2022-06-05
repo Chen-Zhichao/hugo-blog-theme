@@ -1,7 +1,7 @@
 ---
 title: Zhichao Chen
 role: Undergraduate Student
-avatar_filename: ""
+avatar_filename: a.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
