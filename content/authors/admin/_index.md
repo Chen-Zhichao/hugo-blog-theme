@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: Nanjing University
-    url: https://www.nju.edu.cn
+  - name: School of Electronic Science and Engineering, Nanjing University
+    url: ""
 superuser: true
 status:
   icon: ☕️
