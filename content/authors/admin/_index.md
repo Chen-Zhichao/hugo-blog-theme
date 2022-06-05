@@ -21,7 +21,7 @@ education:
   courses:
     - course: Bachelor of Engineering in Electronic Science and Engineering
       institution: Nanjing University
-      year: ""
+      year: 2023
 email: zhichaoc86@gmail.com
 superuser: true
 status:
