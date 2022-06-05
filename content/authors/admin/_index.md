@@ -1,7 +1,7 @@
 ---
 title: Zhichao Chen
 role: Undergraduate Student
-avatar_filename: a.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
@@ -21,7 +21,7 @@ education:
   courses:
     - course: Bachelor of Engineering in Electronic Science and Engineering
       institution: Nanjing University
-      year: 4
+      year: ""
 email: zhichaoc86@gmail.com
 superuser: true
 status:
