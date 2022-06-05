@@ -13,7 +13,7 @@ social:
     link: https://twitter.com/chichiu_chan
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/chan_chichiu
 organizations:
   - name: School of Electronic Science and Engineering, Nanjing University
     url: ""
