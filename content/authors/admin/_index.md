@@ -18,7 +18,10 @@ organizations:
   - name: School of Electronic Science and Engineering, Nanjing University
     url: ""
 education:
-  courses: []
+  courses:
+    - course: Bachelor of Engineering in Electronic Science and Engineering
+      institution: Nanjing University
+      year: 4
 email: zhichaoc86@gmail.com
 superuser: true
 status:
