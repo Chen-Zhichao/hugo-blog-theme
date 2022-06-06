@@ -6,10 +6,13 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Integrated Circuits Design
+  - Active Segmentation Domain Adaptation
 social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chichiu_chan
