@@ -5,8 +5,7 @@ avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Integrated Circuits Design
-  - Active Segmentation Domain Adaptation
+  - BasketballShuttleCock
 social:
   - icon: envelope
     icon_pack: fas
