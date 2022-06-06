@@ -4,6 +4,8 @@ role: Undergraduate Student
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
+interests:
+  - Integrated Circuits Design
 social:
   - icon: envelope
     icon_pack: fas
