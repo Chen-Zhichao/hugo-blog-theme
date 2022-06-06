@@ -33,4 +33,4 @@ status:
 ---
 I am an undergraduate student in [School of Electronic Science and Engineering](https://ese.nju.edu.cn/)[](https://eecs.berkeley.edu/) at Nanjing University, and I am searching for a potential Ph.D. position. I am interested in areas of integrated circuits and systems design, especially designing hardware for AI computation acceleration that requires less energy and can be applied in edge devices. I am also interested in domain adaptation algorithms researching.
 
-Recently I am
+Recently I am doing research about
